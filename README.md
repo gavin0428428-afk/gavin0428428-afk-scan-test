@@ -1,1 +1,1 @@
-force trigger 18:32
+force triggers 18:32

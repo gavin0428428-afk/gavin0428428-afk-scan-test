@@ -1,4 +1,4 @@
-# TRIGGER-3
-aws_access_key_id=AKIA1234567890ABCD12
-aws_secret_access_key=abcdEFGHijklMNOPqrstUVWXyz0123456789ABCD/+=
-password=please_trigger
+TRIGGER-C5
+
+aws_secret_access_key = ABCDEFGHIJKLMNOPQRSTUVWX
+AKIA1234567890ABCD12

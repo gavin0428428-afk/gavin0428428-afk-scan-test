@@ -1,6 +1,1 @@
-强制触发 18:45
-
-aws_secret_access_key = ABCDEFGHIJKLMNOPQRSTUVWX
-AKIA1234567890ABCD12
-TRIGGER-2
-aws_secret_access_key = ABCDEFGHIJKLMNOPQRSTUVWX
+aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
